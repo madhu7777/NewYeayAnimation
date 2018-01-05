@@ -6,3 +6,5 @@ countdate:
     minute:         0
     second:         0
     millisecond:    0
+
+theme: jekyll-theme-cayman
