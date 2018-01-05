@@ -1,4 +1,4 @@
-# Another HTML5 Birthday gift
+# New Year Wishes
 ## Instro
 This is a page used to celebrate my friend's birthday, using the idea and frame from HackerZhou. 
 
